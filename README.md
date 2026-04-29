@@ -30,6 +30,7 @@ title      : Full Stack Developer (Java & .NET)
 philosophy : "I don't just write code — I architect experiences."
 superpower : Switching between Java & C# without breaking a sweat ⚡
 currently  : Open to opportunities | Building real-world projects
+fun_fact   : I debug at midnight and ship at dawn 🌙
 ```
 
 > 🚀 *Fresh out of university but battle-tested in full-stack development — I build robust, scalable applications across Java and .NET ecosystems. I'm the kind of engineer who obsesses over clean architecture, elegant APIs, and user experiences that just work.*
@@ -100,12 +101,30 @@ currently  : Open to opportunities | Building real-world projects
 
 ## 🚀 Featured Projects
 
-> 🔨 *Projects section — coming soon! Currently building something awesome...*
-
-| 🏗️ Project | 📝 Description | 🛠️ Stack |
-|------------|---------------|----------|
-| 🔜 Coming Soon | Building exciting full-stack projects | Java / .NET / React |
-| 🔜 Coming Soon | Open source contributions underway | TypeScript / Spring Boot |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 MultiPage E-Learning System</h3>
+      <p>A fully-featured, multi-page e-learning web application designed to deliver seamless online education experiences. Built with a robust .NET backend and a responsive Bootstrap frontend — think course management, user roles, and interactive content all under one roof.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Automated ITIL System</h3>
+      <p>An intelligent IT service management automation tool built on ITIL frameworks. Leverages Python to streamline incident management, change requests, and service workflows — reducing manual overhead and boosting IT ops efficiency.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ITIL-6A0572?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Automation-FF6C37?style=flat-square&logo=robotframework&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
