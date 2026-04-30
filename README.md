@@ -83,17 +83,17 @@ fun_fact   : I debug at midnight and ship at dawn 🌙
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaif-khan-md&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kaif-khan-md&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif-khan-md&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif-khan-md&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8&exclude_repo=kaif-khan-md" height="175"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kaif-khan-md&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaif-khan-md&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&dates=8892b8&sideLabels=a78bfa&currStreakNum=ffffff&sideNums=ffffff" width="68%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaif-khan-md&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaif-khan-md&theme=tokyonight" width="95%"/>
 
 </div>
 
